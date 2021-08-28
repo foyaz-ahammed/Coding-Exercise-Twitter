@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TWeather</string>
+    <string name="current_temperature">Current temperature</string>
+    <string name="temperature">%1$.1f °C / %2$.1f °F</string>
+    <string name="wind_speed">%.1f m/s</string>
+    <string name="current_wind_speed">Current wind speed</string>
+    <string name="today_weather">Today\'s weather</string>
+    <string name="show_deviation">Show Deviation</string>
+    <string name="deviation">Deviation</string>
+    <string name="error_loading_data">Error loading data</string>
+</resources>
